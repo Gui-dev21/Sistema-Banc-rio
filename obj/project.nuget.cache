@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFUw3Zj02fwblCzrAjCxbGRxOG3U8eP+MqFcNRS0D3KcJ4PINw8rltkq87K/A+oEXp5VOY+UBzGRpsJBxAKA+g==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
